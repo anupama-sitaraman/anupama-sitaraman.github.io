@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anupama-sitaraman.github.iohttps://anupama-sitaraman.github.io/sitemap.xml
+Sitemap: https://anupama-sitaraman.github.io/sitemap.xml
