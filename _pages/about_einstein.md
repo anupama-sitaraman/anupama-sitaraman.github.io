@@ -1,4 +1,4 @@
-Hi! I'm Anupama Sitaraman, and I am a final year undergraduate at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) seeking a PhD position. I have been working as an undergraduate researcher in [Laboratory for Advanced Software Systems](https://lass.cs.umass.edu/) and I am mentored by [Professor Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). 
+
 
 
 <
