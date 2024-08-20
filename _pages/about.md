@@ -17,4 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Anupama Sitaraman, and I am a final year undergraduate at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) seeking a PhD position. I have been working as an undergraduate researcher in [Laboratory for Advanced Software Systems](https://lass.cs.umass.edu/) and I am mentored by [Professor Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). 
+Hi! I'm Anupama Sitaraman, and I am a first-year PhD student in Societal Computing at the [Carnegie Mellon University School of Computer Science](https://www.cs.cmu.edu/). I am advised by [Yuvraj Agarwal](https://www.synergylabs.org/yuvraj/).
+
+Previously, I was an undergraduate researcher at the the [University of Massachusetts Amherst](https://www.cics.umass.edu/) and was mentored by [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/) and [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). 
