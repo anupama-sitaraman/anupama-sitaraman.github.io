@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I won the UMass Amherst Rising Researcher Award!
+I won the UMass Amherst Rising Researcher Award! Read my profile [here](https://www.umass.edu/gateway/research/stories/rising-researchers/computing-research-equitable-energy-transition)
