@@ -17,7 +17,7 @@ on:
 jobs:
   build:
     runs-on:ubuntu-22.04 
-    if: github.repository_owner == 'alshedivat'
+    if: github.repository_owner == 'anupama-sitaraman'
 
     steps:
       - name: Checkout
