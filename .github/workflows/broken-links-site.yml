@@ -48,6 +48,7 @@ jobs:
             --offline
             --base '_site'
             --remap '^/?assets/(.*)$ _site/assets/$1'
+            --exclude-path _includes
             --verbose
             --no-progress
             "_site/**/*.html"
