@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented our work, Dynamic Incentive Allocation for City-Scale Deep Decarbonization, at ACM COMPASS! Check out our work [here](https://dl.acm.org/doi/10.1145/3712286)
+I presented our work, Dynamic Incentive Allocation for City-Scale Deep Decarbonization, at ACM COMPASS! Check out our work [here](https://dl.acm.org/doi/10.1145/3736650)
