@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, SpiderGen: Towards Procedure Generation for Carbon Life Cycle Assessments With Generative AI, was accepted to AAAI '26 Special Track on AI for Social Impact! [Read the paper here](https://anupama-sitaraman.github.io/assets/pdf/CR_SpiderGen_extended_Dec2025.pdf)! [Access our code here](https://github.com/synergylabs/SpiderGen)
+Our paper, SpiderGen: Towards Procedure Generation for Carbon Life Cycle Assessments With Generative AI, was accepted to AAAI '26 Special Track on AI for Social Impact! [Read the paper here](https://anupama-sitaraman.github.io/assets/pdf/SpiderGen_extended_Dec2025.pdf)! [Access our code here](https://github.com/synergylabs/SpiderGen)
